@@ -1,0 +1,8 @@
+prefix=/home/koby/robocup/socket/sock_ws/devel
+
+Name: socket_sample
+Description: Description of socket_sample
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/koby/robocup/socket/sock_ws/devel/lib 
+Requires: 

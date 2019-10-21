@@ -1,0 +1,2 @@
+socket_sample
+-DCATKIN_DEVEL_PREFIX=/home/koby/robocup/socket/sock_ws/devel -DCMAKE_INSTALL_PREFIX=/home/koby/robocup/socket/sock_ws/install -G Unix Makefiles

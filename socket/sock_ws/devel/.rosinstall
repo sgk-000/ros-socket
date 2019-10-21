@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/koby/robocup/socket/sock_ws/devel/setup.sh
